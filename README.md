@@ -92,6 +92,6 @@ Vintage minimalist theme. Includes social media icons (configurable from Appeara
 
 ---
 
-These templates should at least work with Wordpress Version 5.6 (https://wordpress.org/download/releases/).
+These templates should at least work with WordPress Version 5.6 (https://wordpress.org/download/releases/).
 
 Sources and Copyright: [WordPress Themes](https://wordpress.org/themes/), template authors or the public.
