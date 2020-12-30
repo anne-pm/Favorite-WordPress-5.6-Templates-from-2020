@@ -4,15 +4,15 @@ My five favorite templates for WordPress 5.6 from 2020 archived on GitHub (ZIPs 
 
 ---
 
-### № 1 --- Ruffie
+### № 1 — Ruffie
 
 By  [Gratis Themes](https://wordpress.org/themes/author/knifftech/)
 
 [Preview](https://wp-themes.com/ruffie) | [Download](https://downloads.wordpress.org/theme/ruffie.1.5.0.zip)
 
-Version:  **1.5.0**
-Last updated:  **December 29, 2018**
-Active Installations:  **300+**
+Version:  **1.5.0**<br>
+Last updated:  **December 29, 2018**<br>
+Active Installations:  **300+**<br>
 
 [Theme Homepage](https://gratisthemes.github.io/ruffie)
 
@@ -20,16 +20,16 @@ Ruffie is a comic book inspired and responsive theme made with modern devices in
 
 ---
 
-###  № 2 --- Monostack
+###  № 2 — Monostack
 
 By  [Mark Uraine](https://wordpress.org/themes/author/mapk/)
 
 [ Preview](https://wp-themes.com/monostack) | [Download](https://downloads.wordpress.org/theme/monostack.2.0.4.zip)
 
-Version:  **2.0.4**
-Last updated:  **February 27, 2019**
-Active Installations:  **300+**
-WordPress Version:  **4.0 or higher**
+Version:  **2.0.4**<br>
+Last updated:  **February 27, 2019**<br>
+Active Installations:  **300+**<br>
+WordPress Version:  **4.0 or higher**<br>
 
 [Theme Homepage](https://github.com/mapk/monostack/)
 
@@ -37,17 +37,17 @@ Monostack is a Gutenberg-ready WordPress theme that brings the beauty of code ed
 
 ---
 
-### № 3 --- Anarcho Notepad
+### № 3 — Anarcho Notepad
 
 By  [Space X-Chimp](https://wordpress.org/themes/author/arthur-gareginyan/)
 
 [Preview](https://wp-themes.com/anarcho-notepad) | [Download](https://downloads.wordpress.org/theme/anarcho-notepad.2.47.zip)
 
-Version:  **2.47**
-Last updated:  **December 21, 2020**
-Active Installations:  **1,000+**
-WordPress Version:  **4.9 or higher**
-PHP Version:  **5.6 or higher**
+Version:  **2.47**<br>
+Last updated:  **December 21, 2020**<br>
+Active Installations:  **1,000+**<br>
+WordPress Version:  **4.9 or higher**<br>
+PHP Version:  **5.6 or higher**<br>
 
 [Theme Homepage](https://www.spacexchimp.com/themes/anarcho-notepad.html)
 
@@ -55,16 +55,16 @@ Inspired by the idea of anarchy, we designed this free WordPress theme for your 
 
 ---
 
-### № 4 --- DISCUSSION
+### № 4 — DISCUSSION
 
 By  [D5 Creation](https://wordpress.org/themes/author/d5creation/)
 
 [Preview](https://wp-themes.com/discussion) | [Download](https://downloads.wordpress.org/theme/discussion.1.8.zip)
 
-Version:  **1.8**
-Last updated:  **June 21, 2019**
-Active Installations:  **500+**
-WordPress Version:  **4.0 or higher**
+Version:  **1.8**<br>
+Last updated:  **June 21, 2019**<br>
+Active Installations:  **500+**<br>
+WordPress Version:  **4.0 or higher**<br>
 
 [Theme Homepage](https://d5creation.com/theme/discussion/)
 
@@ -72,17 +72,17 @@ DISCUSSION is a theme for Bloggers. All the pages, posts and contents are design
 
 ---
 
-### № 5 --- Visual Coffee
+### № 5 — Visual Coffee
 
 By  [visualcoffee](https://wordpress.org/themes/author/visualcoffee/)
 
 [Preview](https://wp-themes.com/visual-coffee) | [Download](https://downloads.wordpress.org/theme/visual-coffee.1.6.zip)
 
-Version:  **1.6**
-Last updated:  **September 28, 2020**
-Active Installations:  **200+**
-WordPress Version:  **4.7 or higher**
-PHP Version:  **5.6 or higher**
+Version:  **1.6**<br>
+Last updated:  **September 28, 2020**<br>
+Active Installations:  **200+**<br>
+WordPress Version:  **4.7 or higher**<br>
+PHP Version:  **5.6 or higher**<br>
 
 [Theme Homepage](https://github.com/alinacsava/visual-coffee-free-theme)
 
